@@ -29,6 +29,12 @@ public class Test2 extends Application {
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
                  System.out.println("Hello World!");
+                 System.out.println("Hello World!");
+                 System.out.println("Hello World!");
+                 System.out.println("Hello World!");System.out.println("Hello World!");
+                 
+                 
+                 
             }
         });
         
